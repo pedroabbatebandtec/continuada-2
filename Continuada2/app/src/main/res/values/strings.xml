@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Continuada 2</string>
+    <string name="tela2" translatable="false">Deu ruim... Nenhum cachorro encontrado com os ids %d e %d</string>
+</resources>
